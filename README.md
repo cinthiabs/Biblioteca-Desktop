@@ -8,7 +8,7 @@ Trata-se de um sistema onde será utilizado por funcionários da biblioteca. Pri
 
 **Tela inicial do Sistema após efetuar o login.**
 
-![apresentacao](https://user-images.githubusercontent.com/66570013/86970653-1b69a000-c146-11ea-886b-9f653b139e00.png)
+![telaApresentacao](https://user-images.githubusercontent.com/66570013/87147112-74d6e980-c282-11ea-8769-b0e9c8f6b856.png)
 
 
 Você pode ver mais telas do projeto, clicando [aqui](https://github.com/cinthiabs/Biblioteca-Desktop/tree/master/Telas%20do%20Projeto) .
